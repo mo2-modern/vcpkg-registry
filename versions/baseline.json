@@ -49,7 +49,7 @@
       "port-version": 0
     },
     "spdlog": {
-      "baseline": "1.15.3",
+      "baseline": "1.17.0",
       "port-version": 0
     },
     "usvfs": {
