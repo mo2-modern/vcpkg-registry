@@ -1,9 +1,10 @@
 {
   "name": "asmjit",
-  "version-string": "fb9f82c",
-  "description": "Complete x86/x64 JIT and Remote Assembler for C++",
-  "homepage": "https://github.com/asmjit/asmjit",
-  "supports": "!arm",
+  "version-date": "2025-10-13",
+  "description": "AsmJit is a lightweight library for machine code generation written in C++ language",
+  "homepage": "https://asmjit.com/",
+  "documentation": "https://asmjit.com/doc/",
+  "license": "Zlib",
   "dependencies": [
     {
       "name": "vcpkg-cmake",
