@@ -2,7 +2,7 @@
   "name": "mo2-archive",
   "version": "2.0.0",
   "description": "MO2 archive extraction component.",
-  "homepage": "https://github.com/ModOrganizer2/modorganizer-archive",
+  "homepage": "https://github.com/mo2-modern/modorganizer-archive",
   "license": "GPL-3.0",
   "supports": "!uwp",
   "dependencies": [
